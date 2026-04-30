@@ -1,71 +1,46 @@
-# YYYY-WXX (YYYY-MM-DD〜YYYY-MM-DD)
+# YYYY-WXX (YYYY-MM-DD〜MM-DD)
 
-> 今週のひとこと: (全体の印象・トレンドのまとめを1〜2文で)
+> 今週のひとこと: (今週全体の印象を 1〜2 文で。どのカテゴリが多かったか、大きな流れがあればここで)
 
 ---
 
-## VLA (Vision-Language-Action)
+## 今週の論文
 
 ### [論文タイトル](https://arxiv.org/abs/XXXX.XXXXX)
-**著者:** First et al. | **発表:** Venue/arXiv YYYY-MM
-**タグ:** `#vla` `#e2e` (関連トピック)
+**著者:** First et al. (所属) | **投稿:** YYYY-MM-DD
+**タグ:** `#policy-learning` `#vla` など
 
 - **問題:** 何を解決しようとしているか
-- **手法:** アプローチの核心を1〜2文で
-- **結果:** 主なベンチマーク結果
-- **差分:** 既存研究 (xxx) と比べて何が新しいか
-- **コメント:** 気になる点、次に読む論文、実装上の疑問など
+- **手法:** アプローチの核心を 1〜2 文で
+- **結果:** 定量結果があれば
+- **ポイント:** 既存研究との差分、なぜ面白いか。[foundations: 論文名](../foundations.md) との比較など
 
 ---
 
-## E2E / Imitation Learning
-
-### [論文タイトル](https://arxiv.org/abs/XXXX.XXXXX)
-...
+(論文ごとに繰り返す)
 
 ---
 
-## Diffusion Policy
+## 今週のまとめ
 
-### [論文タイトル](https://arxiv.org/abs/XXXX.XXXXX)
-...
+### トレンド
 
----
+| 軸 | 観察 |
+|---|---|
+| **Policy Learning** | |
+| **RL** | |
+| **World Model** | |
+| **Sensing** | |
 
-## Manipulation
+### 最注目論文
 
-### [論文タイトル](https://arxiv.org/abs/XXXX.XXXXX)
-...
+**論文名** — 理由を 1〜2 文で
 
----
+### クロスペーパーで見えたこと
 
-## Reinforcement Learning
+- (複数の論文を横断してみえる共通点・対比)
 
-### [論文タイトル](https://arxiv.org/abs/XXXX.XXXXX)
-...
+### 来週ウォッチすること
 
----
-
-## World Model
-
-### [論文タイトル](https://arxiv.org/abs/XXXX.XXXXX)
-...
-
----
-
-## Tactile
-
-### [論文タイトル](https://arxiv.org/abs/XXXX.XXXXX)
-...
-
----
-
-## その他 / 気になった論文
-
-- [タイトル](URL) — 一言メモ
-
----
-
-*次週調べること:*
 - [ ] 
 - [ ] 
