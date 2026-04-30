@@ -13,12 +13,17 @@
 | [RT-2](https://arxiv.org/abs/2307.15818) | Google | CoRL 2023 | VLM → 行動トークン fine-tune の原点 |
 | [OpenVLA](https://arxiv.org/abs/2406.09246) | Stanford | 2024 | 公開 VLA のデファクト。LoRA で新ロボット適応 |
 | [π0](https://arxiv.org/abs/2410.24164) | Physical Intelligence | 2024 | PaliGemma + Flow Matching。手先タスク SOTA |
+| [**π₀.₇**](https://arxiv.org/abs/2604.15483) | **Physical Intelligence** | **2026-04** | **Steerable 汎用基盤。ゼロショット汎化・emergent capabilities。今月最重要** |
 | [Octo](https://arxiv.org/abs/2405.12213) | Berkeley | RSS 2024 | マルチロボット汎用ポリシー |
 | [HPT](https://arxiv.org/abs/2409.20537) | MIT | 2024 | 異種ロボット共有 Trunk |
 | [RDT-1B](https://arxiv.org/abs/2410.07864) | Tsinghua | 2024 | 1B Diffusion Transformer、両腕操作用基盤 |
+| [Gemini Robotics-ER 1.6](https://deepmind.google/blog/) | Google DeepMind | 2026-04 (blog) | 空間推論強化・Boston Dynamics 連携。arXiv 待ち |
+| NVIDIA GR00T N2 | NVIDIA | GTC 2026 (preview) | 世界モデルベース。arXiv 待ち |
 | [DeFI](https://arxiv.org/abs/2604.16391) | Zhang et al. | ICLR 2026 | 前向き/逆向きダイナミクス分離事前学習 |
 | [ReFineVLA](https://arxiv.org/abs/2604.17800) | Vo et al. | 2026-04 | 推論根拠でVLAをfine-tune。SimplerEnv SOTA |
 | [UniT](https://arxiv.org/abs/2604.19734) | XPeng Robotics | 2026-04 | 人間→ヒューマノイドゼロショット転移 |
+| [Veo-Act](https://arxiv.org/abs/2604.04502) | Tsinghua | 2026-04 | Google Veo-3 を高レベルプランナーとして活用 |
+| [RL Token](https://arxiv.org/abs/2604.23073) | Xu, Levine et al. | 2026-04 | VLA に RL トークン追加。精密タスクで 3x 学習加速 |
 
 ### 行動表現・生成モデル
 
